@@ -1,4 +1,4 @@
-<h1><b>Restaurant Template</b></h1>
+<h1><b>Basic Restaurant Template</b></h1>
 
 https://www.theodinproject.com/courses/javascript/lessons/restaurant-page
 
